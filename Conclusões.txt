@@ -1,0 +1,22 @@
+Poisson - Poisson:
+
+Com o lambda igual a 5, foi observado que a poisson gerou um número ligeiramente maior de elementos 
+com o valor menor que o lambda em ambos os casos (TEC e TS), no entanto há uma variedade de números 
+maior no intervalo entre ]5, Número máximo da lista].
+
+Poisson - Triangular:
+
+O comportamento anteriormente observado da distribuição de Poisson se repetiu neste experimento.
+A distribuição Triangular que recebeu como parâmetros 9 como valor mínimo, 11 como moda e 13 como valor máximo,
+apresentou um comportamento muito similar ao de uma distribuição normal, sendo aproximadamente proporcional de ambos os lados
+da moda, em relação a número de valores e quantidade de valores obtidos valores.
+
+Poisson - Normal:
+
+O comportamento de Poisson se repete.
+O comportamento da distribuição normal, com os parâmetros mu = 10 e sigma = 0.1, ocorre como o esperado, tendo uma distribuição de aproximadamente 52% dos 
+valores abaixo da média escolhida e 48% acima.
+
+Poisson - Exponecial:
+
+

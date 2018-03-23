@@ -1,0 +1,22 @@
+Tempo livre do operador
+
+Poisson - Poisson: 		1171
+Poisson - Triangular: 		28,50292066
+Poisson - Exponencial: 		1160,574864
+Poisson - Normal:		16,2963538
+
+Triangular - Triangular: 	489,9440637
+Triangular - Poisson:		6018,601793
+Triangular - Exponencial:	4487,515943
+Triangular - Normal:		1097,550407
+
+Exponencial - Exponencial: 	5130,10
+Exponencial - Poisson:		6315,702513
+Exponencial - Triangular:	3032,596704
+Exponencial - Normal:		3184,307446
+
+Normal - Normal:		57,80542378
+Normal - Poisson:		5070,928242
+Normal - Triangular:		43,66200771
+Normal - Exponencial:		3443,306427
+
